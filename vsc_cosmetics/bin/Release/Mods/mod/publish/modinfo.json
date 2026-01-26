@@ -1,7 +1,7 @@
 {
     "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
     "type": "content",
-    "modid": "vsc_cosmetics",
+    "modid": "vsccosmetics",
     "name": "vsc_cosmetics",
     "authors": [
         "lancette2201_8378", "Lorelai 'Fleabag' Breyer"
