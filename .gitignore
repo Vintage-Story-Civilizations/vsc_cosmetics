@@ -1,0 +1,6 @@
+vsc_cosmetics/obj/*
+ZZCakeBuild/obj/*
+Releases/*
+VSC_cosmetics/bin/*
+ZZCakeBuild/*
+/.vscode

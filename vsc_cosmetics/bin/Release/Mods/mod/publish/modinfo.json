@@ -1,0 +1,14 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "content",
+    "modid": "vsc_cosmetics",
+    "name": "vsc_cosmetics",
+    "authors": [
+        "lancette2201_8378", "Lorelai 'Fleabag' Breyer"
+    ],
+    "description": "Content Mod for the Server VSC_Civilization.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.21.0"
+    }
+}

@@ -1,0 +1,20 @@
+{
+	"code": "relic",
+	"creativeinventory": { "general": ["*"], "testmod": ["*"] },
+	"shape": {
+		"base": "block/relic"
+	},
+	"blockmaterial": "Stone",
+	"drawtype": "json",
+	"resistance": 3.5,
+	"sounds": {
+		"place": "game:block/anvil",
+		"walk": "game:walk/stone"
+	},
+	"sidesolid": {
+		"all": false
+	},
+	"sideopaque": {
+		"all": false
+	}
+}

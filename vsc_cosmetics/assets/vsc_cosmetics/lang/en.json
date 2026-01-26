@@ -1,0 +1,20 @@
+{
+	"item-wolfears": "(test) Wolf Ears",
+    "itemdesc-wolfears": "<font color=\"#99c9f9\"><i>The ears of the yellow-eyed, fleabitten psychotic who runs Porta Aurea</i></font><br>",
+    "item-madkingcrown": "(test) Mad King's Crown",
+    "itemdesc-madkingcrown": "<font color=\"#99c9f9\"><i>In hindsight, maybe I shouldn't have given him this. In my defense, it was very funny though...</i></font><br>",
+    "item-vulkhat": "(test) Vulkan's Stovepipe",
+    "itemdesc-vulkhat": "<font color=\"#99c9f9\"><i>A grand stovepipe hat that sports a heavy brass gear. Consider your punk steam'd</i></font><br>",
+    "item-vulkdimmadome": "(test) Majestic Crown of Dimmadome",
+    "itemdesc-vulkdimmadome": "<font color=\"#99c9f9\"><i>I'm Vulk Dimmadome, owner of the Gildsdale Dimmadome! Thank you for saving my child Coal-Titan Dimmadome, heir to the Gildsdale Dimmadome fortune!</i></font><br>",
+    "item-wolftail": "(test) Wolf Tail",
+    "itemdesc-wolftail": "<font color=\"#99c9f9\"><i>So soft and huggable UwU...</i></font><br>",
+    "item-boater": "(test) Crown Boater",
+    "itemdesc-boater": "<font color=\"#99c9f9\"><i>The oversized crown of Marentia Aurea, after it was recovered from between the couch cushions it was mounted on a straw hat because it was too big to wear.</i></font><br>",
+
+    "block-relic": "Reliquary of The Mad King",
+    "blockdesc-relic": "<font color=\"#99c9f9\"><i>Andy...I've done a bad thing. And so have you.</i></font><br>",
+    "block-telex": "Telex Terminal",
+    "blockdesc-telex": "<font color=\"#99c9f9\"><i>A strange piece of equipment that serves little purpose when separated from a much larger machine...</i></font><br>"
+}
+
