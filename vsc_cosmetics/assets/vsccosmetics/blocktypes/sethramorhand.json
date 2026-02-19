@@ -1,0 +1,43 @@
+{
+	"code": "sethramorhand",
+	"creativeinventory": { },
+	"creativeinventoryStacksByType": {
+        "*-east": [
+            {
+                "tabs": [ "general", "decorative", "vsccosmetics" ],
+                "stacks": [
+                    { "type": "block", "code": "sethramorhand-east", "attributes": { "type": "normal-generic" } }
+                ]
+            }
+        ]
+    },
+	"attributes": {
+		"variantByGroup": "side"
+	},
+	"behaviors": [ 
+        {"name": "HorizontalOrientable"}
+    ],
+	"variantgroups": [
+		{ "code":"side", "loadFromProperties": "abstract/horizontalorientation" }
+	],
+	"variantByGroupInventory": null,
+	"shapeByType": {
+		"*north*": { "base": "block/sethramorhand", "rotateY": 180 },
+		"*east*": { "base": "block/sethramorhand", "rotateY": 90 },
+		"*west*": { "base": "block/sethramorhand", "rotateY": 270 },
+		"*south*": { "base": "block/sethramorhand", "rotateY": 0 }
+	},
+	"blockmaterial": "Stone",
+	"drawtype": "json",
+	"resistance": 3.5,
+	"sounds": {
+		"place": "game:block/stone",
+		"walk": "game:walk/stone"
+	},
+	"sidesolid": {
+		"all": false
+	},
+	"sideopaque": {
+		"all": false
+	}
+}

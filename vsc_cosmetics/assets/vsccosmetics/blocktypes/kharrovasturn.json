@@ -1,0 +1,43 @@
+{
+	"code": "kharrovasturn",
+	"creativeinventory": { },
+	"creativeinventoryStacksByType": {
+        "*-east": [
+            {
+                "tabs": [ "general", "decorative", "vsccosmetics" ],
+                "stacks": [
+                    { "type": "block", "code": "kharrovasturn-east", "attributes": { "type": "normal-generic" } }
+                ]
+            }
+        ]
+    },
+	"attributes": {
+		"variantByGroup": "side"
+	},
+	"behaviors": [ 
+        {"name": "HorizontalOrientable"}
+    ],
+	"variantgroups": [
+		{ "code":"side", "loadFromProperties": "abstract/horizontalorientation" }
+	],
+	"variantByGroupInventory": null,
+	"shapeByType": {
+		"*north*": { "base": "block/kharrovasturn", "rotateY": 180 },
+		"*east*": { "base": "block/kharrovasturn", "rotateY": 90 },
+		"*west*": { "base": "block/kharrovasturn", "rotateY": 270 },
+		"*south*": { "base": "block/kharrovasturn", "rotateY": 0 }
+	},
+	"blockmaterial": "Wood",
+	"drawtype": "json",
+	"resistance": 3.5,
+	"sounds": {
+		"place": "game:block/stone",
+		"walk": "game:walk/stone"
+	},
+	"sidesolid": {
+		"all": true
+	},
+	"sideopaque": {
+		"all": false
+	}
+}

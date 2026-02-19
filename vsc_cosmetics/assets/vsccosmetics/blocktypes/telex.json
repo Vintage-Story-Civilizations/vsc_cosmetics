@@ -1,0 +1,43 @@
+{
+	"code": "telex",
+	"creativeinventory": { },
+	"creativeinventoryStacksByType": {
+        "*-east": [
+            {
+                "tabs": [ "general", "decorative", "vsccosmetics" ],
+                "stacks": [
+                    { "type": "block", "code": "telex-east", "attributes": { "type": "normal-generic" } }
+                ]
+            }
+        ]
+    },
+	"attributes": {
+		"variantByGroup": "side"
+	},
+	"behaviors": [ 
+        {"name": "HorizontalOrientable"}
+    ],
+	"variantgroups": [
+		{ "code":"side", "loadFromProperties": "abstract/horizontalorientation" }
+	],
+	"variantByGroupInventory": null,
+	"shapeByType": {
+		"*north*": { "base": "block/telex", "rotateY": 180 },
+		"*east*": { "base": "block/telex", "rotateY": 90 },
+		"*west*": { "base": "block/telex", "rotateY": 270 },
+		"*south*": { "base": "block/telex", "rotateY": 0 }
+	},
+	"blockmaterial": "Metal",
+	"drawtype": "json",
+	"resistance": 3.5,
+	"sounds": {
+		"place": "game:block/anvil",
+		"walk": "game:walk/stone"
+	},
+	"sidesolid": {
+		"all": false
+	},
+	"sideopaque": {
+		"all": false
+	}
+}

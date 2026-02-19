@@ -1,0 +1,55 @@
+{
+  "code": "badgecae",
+  "class": "ItemWearable",
+
+  "shape": { "base": "entity/humanoid/seraph/clothing/head/badgecae" },
+
+  "storageFlags": 128,
+
+  "attributesByType": {
+    "*": {
+      "clothescategory": "emblem",
+      "warmth": 0.3,
+      "wearableAttachment": true
+    }
+  },
+
+  "textures": {
+    "seraph": { "base": "game:block/transparent" }
+  },
+
+  "creativeinventory": {
+    "general": ["*"],
+    "items": ["*"],
+    "clothing": ["*"],
+    "vsccosmetics": ["*"]
+  },
+
+  "renderAlphaTest": 0.25,
+
+  "fpHandTransform": {
+    "translation": { "x": -0.25, "y": -0.1, "z": 0.5 },
+    "rotation": { "x": 180, "y": 159, "z": 150 },
+    "scale": 2
+  },
+
+  "tpHandTransform": {
+    "translation": { "x": -0.6, "y": -0.9, "z": -0.7 },
+    "rotation": { "x": -71, "y": 180, "z": 83 },
+    "scale": 0.55
+  },
+
+  "guiTransform": {
+    "translation": { "x": 530, "y": -411, "z": 0 },
+    "rotation": { "x": 0, "y": 105, "z": 2 },
+    "origin": { "x": 3, "y": -0.37, "z": 3.6 },
+    "scale": 9.5
+  },
+
+  "groundTransform": {
+    "translation": { "x": 0.05, "y": 0.05, "z": 0 },
+    "rotation": { "x": 0, "y": 0, "z": -87 },
+    "origin": { "x": 0.5, "y": 0.5, "z": 0.5299 },
+    "scale": 2.19
+  }
+}

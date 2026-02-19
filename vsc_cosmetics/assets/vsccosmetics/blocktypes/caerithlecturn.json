@@ -1,0 +1,43 @@
+{
+	"code": "caerithlecturn",
+	"creativeinventory": { },
+	"creativeinventoryStacksByType": {
+        "*-east": [
+            {
+                "tabs": [ "general", "decorative", "vsccosmetics" ],
+                "stacks": [
+                    { "type": "block", "code": "caerithlecturn-east", "attributes": { "type": "normal-generic" } }
+                ]
+            }
+        ]
+    },
+	"attributes": {
+		"variantByGroup": "side"
+	},
+	"behaviors": [ 
+        {"name": "HorizontalOrientable"}
+    ],
+	"variantgroups": [
+		{ "code":"side", "loadFromProperties": "abstract/horizontalorientation" }
+	],
+	"variantByGroupInventory": null,
+	"shapeByType": {
+		"*north*": { "base": "block/caerithlecturn", "rotateY": 180 },
+		"*east*": { "base": "block/caerithlecturn", "rotateY": 90 },
+		"*west*": { "base": "block/caerithlecturn", "rotateY": 270 },
+		"*south*": { "base": "block/caerithlecturn", "rotateY": 0 }
+	},
+	"blockmaterial": "Wood",
+	"drawtype": "json",
+	"resistance": 3.5,
+	"sounds": {
+		"place": "game:block/wood",
+		"walk": "game:walk/stone"
+	},
+	"sidesolid": {
+		"all": false
+	},
+	"sideopaque": {
+		"all": false
+	}
+}

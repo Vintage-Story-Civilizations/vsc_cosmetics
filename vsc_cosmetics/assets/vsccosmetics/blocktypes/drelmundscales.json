@@ -1,0 +1,43 @@
+{
+	"code": "drelmundscales",
+	"creativeinventory": { },
+	"creativeinventoryStacksByType": {
+        "*-east": [
+            {
+                "tabs": [ "general", "decorative", "vsccosmetics" ],
+                "stacks": [
+                    { "type": "block", "code": "drelmundscales-east", "attributes": { "type": "normal-generic" } }
+                ]
+            }
+        ]
+    },
+	"attributes": {
+		"variantByGroup": "side"
+	},
+	"behaviors": [ 
+        {"name": "HorizontalOrientable"}
+    ],
+	"variantgroups": [
+		{ "code":"side", "loadFromProperties": "abstract/horizontalorientation" }
+	],
+	"variantByGroupInventory": null,
+	"shapeByType": {
+		"*north*": { "base": "block/drelmundscales", "rotateY": 180 },
+		"*east*": { "base": "block/drelmundscales", "rotateY": 90 },
+		"*west*": { "base": "block/drelmundscales", "rotateY": 270 },
+		"*south*": { "base": "block/drelmundscales", "rotateY": 0 }
+	},
+	"blockmaterial": "Metal",
+	"drawtype": "json",
+	"resistance": 3.5,
+	"sounds": {
+		"place": "game:block/metal",
+		"walk": "game:walk/metal"
+	},
+	"sidesolid": {
+		"all": false
+	},
+	"sideopaque": {
+		"all": false
+	}
+}
