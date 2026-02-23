@@ -48,7 +48,7 @@
 										"down": {"texture": "#boater", "uv": [11, 34, 10, 35], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": 26.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -70,7 +70,7 @@
 										"down": {"texture": "#boater", "uv": [23, 34, 22, 35], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -3.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -92,7 +92,7 @@
 										"down": {"texture": "#boater", "uv": [32, 34, 31, 35], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -33.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -114,7 +114,7 @@
 										"down": {"texture": "#boater", "uv": [3, 35, 2, 36], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -63.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -136,7 +136,7 @@
 										"down": {"texture": "#boater", "uv": [6, 35, 5, 36], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -153.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -158,7 +158,7 @@
 										"down": {"texture": "#boater", "uv": [36, 8, 35, 9], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -123.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -180,14 +180,14 @@
 										"down": {"texture": "#boater", "uv": [16, 35, 15, 36], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -93.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
 									"seasonColorMap": ""
 								}
-							],
-							"stepParentName": ""
+							]
+
 						},
 						{
 							"name": "SUN2",
@@ -212,7 +212,7 @@
 										"down": {"texture": "#boater", "uv": [36, 18, 35, 19], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": 26.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -234,7 +234,7 @@
 										"down": {"texture": "#boater", "uv": [36, 22, 35, 23], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -3.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -256,7 +256,7 @@
 										"down": {"texture": "#boater", "uv": [36, 25, 35, 26], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -33.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -278,7 +278,7 @@
 										"down": {"texture": "#boater", "uv": [36, 28, 35, 29], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -63.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -300,7 +300,7 @@
 										"down": {"texture": "#boater", "uv": [33, 35, 32, 36], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -153.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -322,7 +322,7 @@
 										"down": {"texture": "#boater", "uv": [36, 35, 35, 36], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -123.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -344,14 +344,14 @@
 										"down": {"texture": "#boater", "uv": [37, 2, 36, 3], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -93.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
 									"seasonColorMap": ""
 								}
-							],
-							"stepParentName": ""
+							]
+
 						},
 						{
 							"name": "SUN3",
@@ -376,7 +376,7 @@
 										"down": {"texture": "#boater", "uv": [37, 5, 36, 6], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": 26.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -398,7 +398,7 @@
 										"down": {"texture": "#boater", "uv": [37, 8, 36, 9], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -3.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -420,7 +420,7 @@
 										"down": {"texture": "#boater", "uv": [37, 11, 36, 12], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -33.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -442,7 +442,7 @@
 										"down": {"texture": "#boater", "uv": [37, 14, 36, 15], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -63.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -464,7 +464,7 @@
 										"down": {"texture": "#boater", "uv": [37, 17, 36, 18], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -153.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -486,7 +486,7 @@
 										"down": {"texture": "#boater", "uv": [37, 20, 36, 21], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -123.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -508,14 +508,14 @@
 										"down": {"texture": "#boater", "uv": [37, 23, 36, 24], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -93.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
 									"seasonColorMap": ""
 								}
-							],
-							"stepParentName": ""
+							]
+
 						},
 						{
 							"name": "SUN4",
@@ -540,7 +540,7 @@
 										"down": {"texture": "#boater", "uv": [37, 26, 36, 27], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": 26.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -562,7 +562,7 @@
 										"down": {"texture": "#boater", "uv": [37, 29, 36, 30], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -3.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -584,7 +584,7 @@
 										"down": {"texture": "#boater", "uv": [37, 32, 36, 33], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -33.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -606,7 +606,7 @@
 										"down": {"texture": "#boater", "uv": [37, 35, 36, 36], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -63.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -628,7 +628,7 @@
 										"down": {"texture": "#boater", "uv": [3, 37, 2, 38], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -153.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -650,7 +650,7 @@
 										"down": {"texture": "#boater", "uv": [6, 37, 5, 38], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -123.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -672,14 +672,14 @@
 										"down": {"texture": "#boater", "uv": [9, 37, 8, 38], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -93.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
 									"seasonColorMap": ""
 								}
-							],
-							"stepParentName": ""
+							]
+
 						},
 						{
 							"name": "SUN5",
@@ -704,7 +704,7 @@
 										"down": {"texture": "#boater", "uv": [12, 37, 11, 38], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": 26.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -726,7 +726,7 @@
 										"down": {"texture": "#boater", "uv": [15, 37, 14, 38], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -3.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -748,7 +748,7 @@
 										"down": {"texture": "#boater", "uv": [18, 37, 17, 38], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -33.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -770,7 +770,7 @@
 										"down": {"texture": "#boater", "uv": [21, 37, 20, 38], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -63.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -792,7 +792,7 @@
 										"down": {"texture": "#boater", "uv": [24, 37, 23, 38], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -153.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -814,7 +814,7 @@
 										"down": {"texture": "#boater", "uv": [27, 37, 26, 38], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -123.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -836,14 +836,14 @@
 										"down": {"texture": "#boater", "uv": [30, 37, 29, 38], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -93.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
 									"seasonColorMap": ""
 								}
-							],
-							"stepParentName": ""
+							]
+
 						},
 						{
 							"name": "SUN6",
@@ -868,7 +868,7 @@
 										"down": {"texture": "#boater", "uv": [33, 37, 32, 38], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": 26.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -890,7 +890,7 @@
 										"down": {"texture": "#boater", "uv": [36, 37, 35, 38], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -3.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -912,7 +912,7 @@
 										"down": {"texture": "#boater", "uv": [39, 0, 38, 1], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -33.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -934,7 +934,7 @@
 										"down": {"texture": "#boater", "uv": [39, 3, 38, 4], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -63.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -956,7 +956,7 @@
 										"down": {"texture": "#boater", "uv": [39, 6, 38, 7], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -153.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -978,7 +978,7 @@
 										"down": {"texture": "#boater", "uv": [39, 9, 38, 10], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -123.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1000,14 +1000,14 @@
 										"down": {"texture": "#boater", "uv": [39, 12, 38, 13], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -93.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
 									"seasonColorMap": ""
 								}
-							],
-							"stepParentName": ""
+							]
+
 						},
 						{
 							"name": "SUN7",
@@ -1032,7 +1032,7 @@
 										"down": {"texture": "#boater", "uv": [39, 15, 38, 16], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": 26.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1054,7 +1054,7 @@
 										"down": {"texture": "#boater", "uv": [39, 18, 38, 19], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -3.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1076,7 +1076,7 @@
 										"down": {"texture": "#boater", "uv": [39, 21, 38, 22], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -33.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1098,7 +1098,7 @@
 										"down": {"texture": "#boater", "uv": [39, 24, 38, 25], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -63.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1120,7 +1120,7 @@
 										"down": {"texture": "#boater", "uv": [39, 27, 38, 28], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -153.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1142,7 +1142,7 @@
 										"down": {"texture": "#boater", "uv": [39, 30, 38, 31], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -123.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1164,14 +1164,14 @@
 										"down": {"texture": "#boater", "uv": [39, 33, 38, 34], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -93.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
 									"seasonColorMap": ""
 								}
-							],
-							"stepParentName": ""
+							]
+
 						},
 						{
 							"name": "SUN8",
@@ -1196,7 +1196,7 @@
 										"down": {"texture": "#boater", "uv": [39, 36, 38, 37], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": 26.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1218,7 +1218,7 @@
 										"down": {"texture": "#boater", "uv": [2, 39, 1, 40], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -3.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1240,7 +1240,7 @@
 										"down": {"texture": "#boater", "uv": [5, 39, 4, 40], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -33.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1262,7 +1262,7 @@
 										"down": {"texture": "#boater", "uv": [8, 39, 7, 40], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -63.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1284,7 +1284,7 @@
 										"down": {"texture": "#boater", "uv": [11, 39, 10, 40], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -153.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1306,7 +1306,7 @@
 										"down": {"texture": "#boater", "uv": [14, 39, 13, 40], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -123.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1328,14 +1328,14 @@
 										"down": {"texture": "#boater", "uv": [17, 39, 16, 40], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -93.5,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
 									"seasonColorMap": ""
 								}
-							],
-							"stepParentName": ""
+							]
+
 						},
 						{
 							"name": "RING",
@@ -1358,7 +1358,7 @@
 										"up": {"texture": "#boater", "uv": [27, 34, 26, 29], "autoUv": false, "snapUv": false},
 										"down": {"texture": "#boater", "uv": [30, 29, 29, 34], "autoUv": false, "snapUv": false}
 									},
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1380,7 +1380,7 @@
 										"down": {"texture": "#boater", "uv": [35, 27, 32, 28], "autoUv": false, "snapUv": false}
 									},
 									"rotationY": 45,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1401,7 +1401,7 @@
 										"up": {"texture": "#boater", "uv": [6, 35, 5, 30], "autoUv": false, "snapUv": false},
 										"down": {"texture": "#boater", "uv": [7, 30, 6, 35], "autoUv": false, "snapUv": false}
 									},
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1423,7 +1423,7 @@
 										"down": {"texture": "#boater", "uv": [28, 30, 27, 35], "autoUv": false, "snapUv": false}
 									},
 									"rotationY": 90,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1445,7 +1445,7 @@
 										"down": {"texture": "#boater", "uv": [31, 31, 30, 36], "autoUv": false, "snapUv": false}
 									},
 									"rotationY": 90,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1467,7 +1467,7 @@
 										"down": {"texture": "#boater", "uv": [1, 33, 0, 36], "autoUv": false, "snapUv": false}
 									},
 									"rotationY": 45,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1489,7 +1489,7 @@
 										"down": {"texture": "#boater", "uv": [13, 33, 12, 36], "autoUv": false, "snapUv": false}
 									},
 									"rotationY": -45,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -1511,17 +1511,17 @@
 										"down": {"texture": "#boater", "uv": [21, 33, 20, 36], "autoUv": false, "snapUv": false}
 									},
 									"rotationY": 45,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
 									"seasonColorMap": ""
 								}
-							],
-							"stepParentName": ""
+							]
+
 						}
-					],
-					"stepParentName": ""
+					]
+
 				},
 				{
 					"name": "TOP",
@@ -1545,7 +1545,7 @@
 								"down": {"texture": "#boater", "uv": [27, 27, 24, 29], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1566,7 +1566,7 @@
 								"up": {"texture": "#boater", "uv": [4, 23, 0, 14], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#boater", "uv": [8, 14, 4, 23], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1587,7 +1587,7 @@
 								"up": {"texture": "#boater", "uv": [8, 27, 6, 23], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#boater", "uv": [26, 11, 24, 15], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1609,7 +1609,7 @@
 								"down": {"texture": "#boater", "uv": [14, 29, 12, 32], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1631,7 +1631,7 @@
 								"down": {"texture": "#boater", "uv": [31, 19, 29, 22], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1652,7 +1652,7 @@
 								"up": {"texture": "#boater", "uv": [10, 29, 8, 25], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#boater", "uv": [12, 25, 10, 29], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1674,14 +1674,14 @@
 								"down": {"texture": "#boater", "uv": [32, 27, 29, 29], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
 							"seasonColorMap": ""
 						}
-					],
-					"stepParentName": ""
+					]
+
 				},
 				{
 					"name": "BRIM",
@@ -1705,7 +1705,7 @@
 								"down": {"texture": "#boater", "uv": [16, 25, 12, 27], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1727,7 +1727,7 @@
 								"down": {"texture": "#boater", "uv": [20, 25, 16, 27], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1748,7 +1748,7 @@
 								"up": {"texture": "#boater", "uv": [8, 14, 0, 0], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#boater", "uv": [16, 0, 8, 14], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1770,7 +1770,7 @@
 								"down": {"texture": "#boater", "uv": [22, 25, 20, 29], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1792,7 +1792,7 @@
 								"down": {"texture": "#boater", "uv": [27, 23, 25, 27], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1813,7 +1813,7 @@
 								"up": {"texture": "#boater", "uv": [12, 22, 8, 14], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#boater", "uv": [16, 14, 12, 22], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1834,7 +1834,7 @@
 								"up": {"texture": "#boater", "uv": [20, 8, 16, 0], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#boater", "uv": [20, 8, 16, 16], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1856,7 +1856,7 @@
 								"down": {"texture": "#boater", "uv": [4, 26, 2, 30], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1878,7 +1878,7 @@
 								"down": {"texture": "#boater", "uv": [29, 2, 27, 6], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1900,7 +1900,7 @@
 								"down": {"texture": "#boater", "uv": [31, 8, 27, 10], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1922,7 +1922,7 @@
 								"down": {"texture": "#boater", "uv": [20, 27, 16, 29], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,

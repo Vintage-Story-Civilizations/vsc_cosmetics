@@ -44,7 +44,7 @@
 								"up": {"texture": "#wolfears", "uv": [20, 11, 19, 10], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#wolfears", "uv": [12, 19, 11, 20], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -66,7 +66,7 @@
 								"down": {"texture": "#wolfears", "uv": [13, 19, 12, 20], "autoUv": false, "snapUv": false}
 							},
 							"rotationZ": -10,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -87,7 +87,7 @@
 								"up": {"texture": "#wolfears", "uv": [20, 13, 19, 12], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#wolfears", "uv": [14, 19, 13, 20], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -108,7 +108,7 @@
 								"up": {"texture": "#wolfears", "uv": [20, 14, 19, 13], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#wolfears", "uv": [20, 14, 19, 15], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -132,7 +132,7 @@
 							"rotationX": 8.3249,
 							"rotationY": 3.43206,
 							"rotationZ": -0.24985,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -156,7 +156,7 @@
 							"rotationX": 8.3249,
 							"rotationY": 3.43206,
 							"rotationZ": -0.24985,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -180,7 +180,7 @@
 							"rotationX": 8.3249,
 							"rotationY": 3.43206,
 							"rotationZ": -0.24985,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -204,7 +204,7 @@
 							"rotationX": 16.33872,
 							"rotationY": 3.36385,
 							"rotationZ": -0.72561,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -228,7 +228,7 @@
 							"rotationX": 16.33872,
 							"rotationY": 3.36385,
 							"rotationZ": -0.72561,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -252,7 +252,7 @@
 							"rotationX": 16.33872,
 							"rotationY": 3.36385,
 							"rotationZ": -0.72561,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -274,7 +274,7 @@
 								"down": {"texture": "#wolfears", "uv": [12, 20, 11, 21], "autoUv": false, "snapUv": false}
 							},
 							"rotationZ": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -298,7 +298,7 @@
 							"rotationX": 180,
 							"rotationY": 0,
 							"rotationZ": -135,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -319,7 +319,7 @@
 								"up": {"texture": "#wolfears", "uv": [16, 21, 15, 20], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#wolfears", "uv": [21, 15, 20, 16], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -341,14 +341,14 @@
 								"down": {"texture": "#wolfears", "uv": [21, 16, 20, 17], "autoUv": false, "snapUv": false}
 							},
 							"rotationZ": 19,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
 							"seasonColorMap": ""
 						}
-					],
-					"stepParentName": ""
+					]
+
 				},
 				{
 					"name": "REAR",
@@ -374,7 +374,7 @@
 								"up": {"texture": "#wolfears", "uv": [18, 21, 17, 20], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#wolfears", "uv": [21, 17, 20, 18], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -396,7 +396,7 @@
 								"down": {"texture": "#wolfears", "uv": [21, 18, 20, 19], "autoUv": false, "snapUv": false}
 							},
 							"rotationZ": -10,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -417,7 +417,7 @@
 								"up": {"texture": "#wolfears", "uv": [20, 21, 19, 20], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#wolfears", "uv": [21, 19, 20, 20], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -438,7 +438,7 @@
 								"up": {"texture": "#wolfears", "uv": [21, 21, 20, 20], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#wolfears", "uv": [22, 0, 21, 1], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -462,7 +462,7 @@
 							"rotationX": -8.3249,
 							"rotationY": -3.43206,
 							"rotationZ": -0.24985,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -486,7 +486,7 @@
 							"rotationX": -8.3249,
 							"rotationY": -3.43206,
 							"rotationZ": -0.24985,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -510,7 +510,7 @@
 							"rotationX": -8.3249,
 							"rotationY": -3.43206,
 							"rotationZ": -0.24985,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -534,7 +534,7 @@
 							"rotationX": -17.84116,
 							"rotationY": -3.3437,
 							"rotationZ": -0.8135,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -558,7 +558,7 @@
 							"rotationX": -17.84116,
 							"rotationY": -3.3437,
 							"rotationZ": -0.8135,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -582,7 +582,7 @@
 							"rotationX": -17.84116,
 							"rotationY": -3.3437,
 							"rotationZ": -0.8135,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -604,7 +604,7 @@
 								"down": {"texture": "#wolfears", "uv": [22, 11, 21, 12], "autoUv": false, "snapUv": false}
 							},
 							"rotationZ": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -628,7 +628,7 @@
 							"rotationX": 180,
 							"rotationY": 0,
 							"rotationZ": -135,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -649,7 +649,7 @@
 								"up": {"texture": "#wolfears", "uv": [22, 16, 21, 15], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#wolfears", "uv": [17, 21, 16, 22], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -671,7 +671,7 @@
 								"down": {"texture": "#wolfears", "uv": [18, 21, 17, 22], "autoUv": false, "snapUv": false}
 							},
 							"rotationZ": 19,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,

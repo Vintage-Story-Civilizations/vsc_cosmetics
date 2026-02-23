@@ -42,7 +42,7 @@
 								"down": {"texture": "#vulkhat", "uv": [35, 6, 29, 7], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -25,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -64,7 +64,7 @@
 								"down": {"texture": "#vulkhat", "uv": [35, 9, 29, 10], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -25,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -86,7 +86,7 @@
 								"down": {"texture": "#vulkhat", "uv": [37, 0, 35, 1], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -108,7 +108,7 @@
 								"down": {"texture": "#vulkhat", "uv": [37, 5, 35, 6], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -129,7 +129,7 @@
 								"up": {"texture": "#vulkhat", "uv": [19, 21, 17, 16], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#vulkhat", "uv": [20, 8, 18, 13], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -151,7 +151,7 @@
 								"down": {"texture": "#vulkhat", "uv": [36, 10, 35, 12], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -175,7 +175,7 @@
 							"rotationX": -30.74645,
 							"rotationY": 27.57791,
 							"rotationZ": 43.69708,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -199,7 +199,7 @@
 							"rotationX": -30.36119,
 							"rotationY": 40.78947,
 							"rotationZ": 50.94102,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -223,7 +223,7 @@
 							"rotationX": -149.63881,
 							"rotationY": -45.78947,
 							"rotationZ": -129.05898,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -247,7 +247,7 @@
 							"rotationX": -149.25355,
 							"rotationY": -25.07791,
 							"rotationZ": -136.30292,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -269,7 +269,7 @@
 								"down": {"texture": "#vulkhat", "uv": [36, 31, 35, 33], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -291,7 +291,7 @@
 								"down": {"texture": "#vulkhat", "uv": [38, 3, 36, 4], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -313,7 +313,7 @@
 								"down": {"texture": "#vulkhat", "uv": [38, 25, 36, 26], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -335,7 +335,7 @@
 								"down": {"texture": "#vulkhat", "uv": [37, 28, 36, 30], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -357,7 +357,7 @@
 								"down": {"texture": "#vulkhat", "uv": [35, 36, 34, 38], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -378,7 +378,7 @@
 								"up": {"texture": "#vulkhat", "uv": [6, 8, 0, 0], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#vulkhat", "uv": [12, 0, 6, 8], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -399,7 +399,7 @@
 								"up": {"texture": "#vulkhat", "uv": [21, 5, 19, 0], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#vulkhat", "uv": [9, 19, 7, 24], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -421,7 +421,7 @@
 								"down": {"texture": "#vulkhat", "uv": [35, 18, 29, 19], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": 25,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -443,14 +443,14 @@
 								"down": {"texture": "#vulkhat", "uv": [35, 22, 29, 23], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": 25,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
 							"seasonColorMap": ""
 						}
-					],
-					"stepParentName": ""
+					]
+
 				},
 				{
 					"name": "CROWN",
@@ -474,7 +474,7 @@
 								"down": {"texture": "#vulkhat", "uv": [39, 25, 38, 26], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -495,7 +495,7 @@
 								"up": {"texture": "#vulkhat", "uv": [12, 19, 7, 16], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#vulkhat", "uv": [17, 16, 12, 19], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -517,7 +517,7 @@
 								"down": {"texture": "#vulkhat", "uv": [39, 27, 38, 28], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -538,7 +538,7 @@
 								"up": {"texture": "#vulkhat", "uv": [36, 26, 32, 25], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#vulkhat", "uv": [36, 26, 32, 27], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -560,7 +560,7 @@
 								"down": {"texture": "#vulkhat", "uv": [39, 29, 38, 30], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -581,7 +581,7 @@
 								"up": {"texture": "#vulkhat", "uv": [36, 28, 32, 27], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#vulkhat", "uv": [36, 28, 32, 29], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -603,7 +603,7 @@
 								"down": {"texture": "#vulkhat", "uv": [39, 30, 38, 31], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -625,7 +625,7 @@
 								"down": {"texture": "#vulkhat", "uv": [39, 31, 38, 32], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -647,7 +647,7 @@
 								"down": {"texture": "#vulkhat", "uv": [39, 32, 38, 33], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -669,7 +669,7 @@
 								"down": {"texture": "#vulkhat", "uv": [39, 33, 38, 34], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -691,14 +691,14 @@
 								"down": {"texture": "#vulkhat", "uv": [39, 34, 38, 35], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 45,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
 							"seasonColorMap": ""
 						}
-					],
-					"stepParentName": ""
+					]
+
 				},
 				{
 					"name": "GEAR",
@@ -721,7 +721,7 @@
 								"up": {"texture": "#vulkhat", "uv": [13, 36, 12, 32], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#vulkhat", "uv": [14, 32, 13, 36], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -743,7 +743,7 @@
 								"down": {"texture": "#vulkhat", "uv": [32, 33, 31, 36], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 17.5,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -765,7 +765,7 @@
 								"down": {"texture": "#vulkhat", "uv": [33, 33, 32, 36], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 52.5,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -787,7 +787,7 @@
 								"down": {"texture": "#vulkhat", "uv": [34, 0, 33, 4], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 35,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -809,7 +809,7 @@
 								"down": {"texture": "#vulkhat", "uv": [35, 0, 34, 3], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 87.5,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -831,7 +831,7 @@
 								"down": {"texture": "#vulkhat", "uv": [17, 33, 16, 37], "autoUv": false, "snapUv": false}
 							},
 							"rotationY": 70,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -855,7 +855,7 @@
 							"rotationX": -180,
 							"rotationY": 57.5,
 							"rotationZ": -180,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -879,7 +879,7 @@
 							"rotationX": -180,
 							"rotationY": 75,
 							"rotationZ": -180,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -903,7 +903,7 @@
 							"rotationX": -180,
 							"rotationY": 22.5,
 							"rotationZ": -180,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -927,7 +927,7 @@
 							"rotationX": -180,
 							"rotationY": 40,
 							"rotationZ": -180,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -951,7 +951,7 @@
 							"rotationX": -180,
 							"rotationY": -17.5,
 							"rotationZ": -180,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -975,7 +975,7 @@
 							"rotationX": -180,
 							"rotationY": 0,
 							"rotationZ": -180,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -999,7 +999,7 @@
 							"rotationX": -180,
 							"rotationY": -35,
 							"rotationZ": -180,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1023,7 +1023,7 @@
 							"rotationX": -180,
 							"rotationY": -52.5,
 							"rotationZ": -180,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1047,7 +1047,7 @@
 							"rotationX": -180,
 							"rotationY": -70,
 							"rotationZ": -180,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1071,7 +1071,7 @@
 							"rotationX": -180,
 							"rotationY": -87.5,
 							"rotationZ": -180,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1095,7 +1095,7 @@
 							"rotationX": 0,
 							"rotationY": -75,
 							"rotationZ": 0,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1119,7 +1119,7 @@
 							"rotationX": 0,
 							"rotationY": -57.5,
 							"rotationZ": 0,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1143,7 +1143,7 @@
 							"rotationX": 0,
 							"rotationY": -40,
 							"rotationZ": 0,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -1167,7 +1167,7 @@
 							"rotationX": 0,
 							"rotationY": -22.5,
 							"rotationZ": 0,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,

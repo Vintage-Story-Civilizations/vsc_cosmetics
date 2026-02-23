@@ -44,7 +44,7 @@
 								"down": {"texture": "#badge", "uv": [3, 0, 2, 1], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": 22.5,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -66,7 +66,7 @@
 								"down": {"texture": "#badge", "uv": [2, 3, 1, 4], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -22.5,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -88,7 +88,7 @@
 								"down": {"texture": "#badge", "uv": [5, 0, 4, 1], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": 22.5,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -110,7 +110,7 @@
 								"down": {"texture": "#badge", "uv": [5, 3, 4, 4], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -22.5,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -132,7 +132,7 @@
 								"down": {"texture": "#badge", "uv": [3, 5, 2, 6], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": 22.5,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -154,7 +154,7 @@
 								"down": {"texture": "#badge", "uv": [6, 5, 5, 6], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -22.5,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -176,7 +176,7 @@
 								"down": {"texture": "#badge", "uv": [7, 2, 6, 3], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": 22.5,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -198,14 +198,14 @@
 								"down": {"texture": "#badge", "uv": [7, 5, 6, 6], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -22.5,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
 							"seasonColorMap": ""
 						}
-					],
-					"stepParentName": ""
+					]
+
 				},
 				{
 					"name": "bone2",
@@ -229,7 +229,7 @@
 								"down": {"texture": "#badge", "uv": [3, 7, 2, 8], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": 15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -251,7 +251,7 @@
 								"down": {"texture": "#badge", "uv": [6, 7, 5, 8], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": 15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -273,7 +273,7 @@
 								"down": {"texture": "#badge", "uv": [9, 0, 8, 1], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -295,7 +295,7 @@
 								"down": {"texture": "#badge", "uv": [9, 3, 8, 4], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": 15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -317,7 +317,7 @@
 								"down": {"texture": "#badge", "uv": [9, 6, 8, 7], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": 15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -339,7 +339,7 @@
 								"down": {"texture": "#badge", "uv": [2, 9, 1, 10], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -361,7 +361,7 @@
 								"down": {"texture": "#badge", "uv": [5, 9, 4, 10], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": 15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -383,7 +383,7 @@
 								"down": {"texture": "#badge", "uv": [8, 9, 7, 10], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": 15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -405,7 +405,7 @@
 								"down": {"texture": "#badge", "uv": [11, 0, 10, 1], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -427,7 +427,7 @@
 								"down": {"texture": "#badge", "uv": [11, 3, 10, 4], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": 15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -449,7 +449,7 @@
 								"down": {"texture": "#badge", "uv": [11, 6, 10, 7], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": 15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -471,7 +471,7 @@
 								"down": {"texture": "#badge", "uv": [11, 9, 10, 10], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -493,7 +493,7 @@
 								"down": {"texture": "#badge", "uv": [3, 11, 2, 12], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -515,7 +515,7 @@
 								"down": {"texture": "#badge", "uv": [6, 11, 5, 12], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -537,7 +537,7 @@
 								"down": {"texture": "#badge", "uv": [9, 11, 8, 12], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -559,7 +559,7 @@
 								"down": {"texture": "#badge", "uv": [12, 11, 11, 12], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -581,7 +581,7 @@
 								"down": {"texture": "#badge", "uv": [13, 2, 12, 3], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -603,7 +603,7 @@
 								"down": {"texture": "#badge", "uv": [13, 5, 12, 6], "autoUv": false, "snapUv": false}
 							},
 							"rotationX": -15,
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -632,7 +632,7 @@
 										"down": {"texture": "#badge", "uv": [13, 8, 12, 9], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -654,7 +654,7 @@
 										"down": {"texture": "#badge", "uv": [13, 11, 12, 12], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -676,7 +676,7 @@
 										"down": {"texture": "#badge", "uv": [3, 13, 2, 14], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -698,7 +698,7 @@
 										"down": {"texture": "#badge", "uv": [6, 13, 5, 14], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -720,14 +720,14 @@
 										"down": {"texture": "#badge", "uv": [9, 13, 8, 14], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
 									"seasonColorMap": ""
 								}
-							],
-							"stepParentName": ""
+							]
+
 						},
 						{
 							"name": "bone4",
@@ -752,7 +752,7 @@
 										"down": {"texture": "#badge", "uv": [12, 13, 11, 14], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -774,7 +774,7 @@
 										"down": {"texture": "#badge", "uv": [15, 0, 14, 1], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -796,7 +796,7 @@
 										"down": {"texture": "#badge", "uv": [15, 3, 14, 4], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -818,7 +818,7 @@
 										"down": {"texture": "#badge", "uv": [15, 6, 14, 7], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -840,14 +840,14 @@
 										"down": {"texture": "#badge", "uv": [15, 9, 14, 10], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
 									"seasonColorMap": ""
 								}
-							],
-							"stepParentName": ""
+							]
+
 						},
 						{
 							"name": "bone5",
@@ -872,7 +872,7 @@
 										"down": {"texture": "#badge", "uv": [15, 12, 14, 13], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -894,7 +894,7 @@
 										"down": {"texture": "#badge", "uv": [2, 15, 1, 16], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -916,7 +916,7 @@
 										"down": {"texture": "#badge", "uv": [5, 15, 4, 16], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -938,7 +938,7 @@
 										"down": {"texture": "#badge", "uv": [8, 15, 7, 16], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -960,17 +960,17 @@
 										"down": {"texture": "#badge", "uv": [11, 15, 10, 16], "autoUv": false, "snapUv": false}
 									},
 									"rotationX": -15,
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
 									"seasonColorMap": ""
 								}
-							],
-							"stepParentName": ""
+							]
+
 						}
-					],
-					"stepParentName": ""
+					]
+
 				},
 				{
 					"name": "cube",
@@ -987,7 +987,7 @@
 						"up": {"texture": "#badge", "uv": [16, 13, 15, 12], "autoUv": false, "snapUv": false},
 						"down": {"texture": "#badge", "uv": [14, 15, 13, 16], "autoUv": false, "snapUv": false}
 					},
-					"stepParentName": "",
+					
 					"climateColorMap": "",
 					"gradientShade": false,
 					"renderPass": 0,
@@ -1009,7 +1009,7 @@
 						"down": {"texture": "#badge", "uv": [17, 0, 16, 1], "autoUv": false, "snapUv": false}
 					},
 					"rotationX": 45,
-					"stepParentName": "",
+					
 					"climateColorMap": "",
 					"gradientShade": false,
 					"renderPass": 0,

@@ -38,7 +38,7 @@
 						"up": {"texture": "#wolftail", "uv": [7, 6, 4, 4], "autoUv": false, "snapUv": false},
 						"down": {"texture": "#wolftail", "uv": [3, 6, 0, 8], "autoUv": false, "snapUv": false}
 					},
-					"stepParentName": "",
+					
 					"climateColorMap": "",
 					"gradientShade": false,
 					"renderPass": 0,
@@ -66,7 +66,7 @@
 								"up": {"texture": "#wolftail", "uv": [10, 6, 7, 4], "autoUv": false, "snapUv": false},
 								"down": {"texture": "#wolftail", "uv": [3, 8, 0, 10], "autoUv": false, "snapUv": false}
 							},
-							"stepParentName": "",
+							
 							"climateColorMap": "",
 							"gradientShade": false,
 							"renderPass": 0,
@@ -94,7 +94,7 @@
 										"up": {"texture": "#wolftail", "uv": [6, 10, 3, 8], "autoUv": false, "snapUv": false},
 										"down": {"texture": "#wolftail", "uv": [9, 8, 6, 10], "autoUv": false, "snapUv": false}
 									},
-									"stepParentName": "",
+									
 									"climateColorMap": "",
 									"gradientShade": false,
 									"renderPass": 0,
@@ -122,7 +122,7 @@
 												"up": {"texture": "#wolftail", "uv": [4, 3, 0, 0], "autoUv": false, "snapUv": false},
 												"down": {"texture": "#wolftail", "uv": [4, 3, 0, 6], "autoUv": false, "snapUv": false}
 											},
-											"stepParentName": "",
+											
 											"climateColorMap": "",
 											"gradientShade": false,
 											"renderPass": 0,
