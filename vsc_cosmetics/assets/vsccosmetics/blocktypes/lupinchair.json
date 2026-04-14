@@ -1,0 +1,43 @@
+{
+	"code": "lupinchair",
+	"creativeinventory": { },
+	"creativeinventoryStacksByType": {
+        "*-east": [
+            {
+                "tabs": [ "general", "decorative", "vsccosmetics" ],
+                "stacks": [
+                    { "type": "block", "code": "lupinchair-east", "attributes": { "type": "normal-generic" } }
+                ]
+            }
+        ]
+    },
+	"attributes": {
+		"variantByGroup": "side"
+	},
+	"behaviors": [ 
+        {"name": "HorizontalOrientable"}
+    ],
+	"variantgroups": [
+		{ "code":"side", "loadFromProperties": "abstract/horizontalorientation" }
+	],
+	"variantByGroupInventory": null,
+	"shapeByType": {
+		"*north*": { "base": "block/lupinchair", "rotateY": 180 },
+		"*east*": { "base": "block/lupinchair", "rotateY": 90 },
+		"*west*": { "base": "block/lupinchair", "rotateY": 270 },
+		"*south*": { "base": "block/lupinchair", "rotateY": 0 }
+	},
+	"blockmaterial": "Wood",
+	"drawtype": "json",
+	"resistance": 3.5,
+	"sounds": {
+		"place": "game:block/wood",
+		"walk": "game:walk/stone"
+	},
+	"sidesolid": {
+		"all": false
+	},
+	"sideopaque": {
+		"all": false
+	}
+}

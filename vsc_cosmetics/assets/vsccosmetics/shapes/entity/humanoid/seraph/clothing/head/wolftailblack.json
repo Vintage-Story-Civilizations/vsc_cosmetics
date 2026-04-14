@@ -1,0 +1,140 @@
+{
+	"editor": {
+		"backDropShape": "entity/humanoid/seraph-hairless",
+		"allAngles": true,
+		"entityTextureMode": true
+	},
+	"textureWidth": 16,
+	"textureHeight": 16,
+	"textureSizes": {
+	},
+"textures": {
+    "wolftail": "entity/humanoid/seraphclothes/head/wolftailblack"
+},
+
+	"elements": [
+		{
+			"name": "1",
+			"stepParentName": "lowerTorso",
+			"from": [0, 7, 13],
+			"to": [0, 7, 13],
+			"rotationOrigin": [10, 17, 8],
+			"rotationX": 180,
+			"rotationY": 0,
+			"rotationZ": -110,
+			"children": [
+				{
+					"name": "cube",
+					"from": [-3, -0.5, -1],
+					"to": [0, 0.5, 1],
+					"rotationOrigin": [-3, 0, 0],
+					"uv": [0, 0],
+					"shade": true,
+					"faces": {
+						"north": {"texture": "#wolftail", "uv": [6, 10, 9, 11], "autoUv": false, "snapUv": false},
+						"east": {"texture": "#wolftail", "uv": [11, 0, 13, 1], "autoUv": false, "snapUv": false},
+						"south": {"texture": "#wolftail", "uv": [9, 10, 12, 11], "autoUv": false, "snapUv": false},
+						"west": {"texture": "#wolftail", "uv": [11, 1, 13, 2], "autoUv": false, "snapUv": false},
+						"up": {"texture": "#wolftail", "uv": [7, 6, 4, 4], "autoUv": false, "snapUv": false},
+						"down": {"texture": "#wolftail", "uv": [3, 6, 0, 8], "autoUv": false, "snapUv": false}
+					},
+					
+					"climateColorMap": "",
+					"gradientShade": false,
+					"renderPass": 0,
+					"seasonColorMap": ""
+				},
+				{
+					"name": "2",
+					"from": [-3, 0, 0],
+					"to": [-3, 0, 0],
+					"rotationOrigin": [-3, 0, 0],
+					"rotationZ": -25,
+					"children": [
+						{
+							"name": "cube",
+							"from": [-2.5, -0.75, -1.05],
+							"to": [0.5, 0.75, 1.05],
+							"rotationOrigin": [0.5, 0, 0],
+							"uv": [0, 0],
+							"shade": true,
+							"faces": {
+								"north": {"texture": "#wolftail", "uv": [3, 6, 6, 8], "autoUv": false, "snapUv": false},
+								"east": {"texture": "#wolftail", "uv": [0, 10, 2, 12], "autoUv": false, "snapUv": false},
+								"south": {"texture": "#wolftail", "uv": [6, 6, 9, 8], "autoUv": false, "snapUv": false},
+								"west": {"texture": "#wolftail", "uv": [2, 10, 4, 12], "autoUv": false, "snapUv": false},
+								"up": {"texture": "#wolftail", "uv": [10, 6, 7, 4], "autoUv": false, "snapUv": false},
+								"down": {"texture": "#wolftail", "uv": [3, 8, 0, 10], "autoUv": false, "snapUv": false}
+							},
+							
+							"climateColorMap": "",
+							"gradientShade": false,
+							"renderPass": 0,
+							"seasonColorMap": ""
+						},
+						{
+							"name": "3",
+							"from": [-1.75, -0.5, 0],
+							"to": [-1.75, -0.5, 0],
+							"rotationOrigin": [-1.75, -0.5, 0],
+							"rotationZ": -15,
+							"children": [
+								{
+									"name": "cube",
+									"from": [-3.5, -0.6, -1.15],
+									"to": [-0.5, 1, 1.15],
+									"rotationOrigin": [-0.5, 0, 0],
+									"uv": [0, 0],
+									"shade": true,
+									"faces": {
+										"north": {"texture": "#wolftail", "uv": [8, 0, 11, 2], "autoUv": false, "snapUv": false},
+										"east": {"texture": "#wolftail", "uv": [4, 10, 6, 12], "autoUv": false, "snapUv": false},
+										"south": {"texture": "#wolftail", "uv": [8, 2, 11, 4], "autoUv": false, "snapUv": false},
+										"west": {"texture": "#wolftail", "uv": [10, 4, 12, 6], "autoUv": false, "snapUv": false},
+										"up": {"texture": "#wolftail", "uv": [6, 10, 3, 8], "autoUv": false, "snapUv": false},
+										"down": {"texture": "#wolftail", "uv": [9, 8, 6, 10], "autoUv": false, "snapUv": false}
+									},
+									
+									"climateColorMap": "",
+									"gradientShade": false,
+									"renderPass": 0,
+									"seasonColorMap": ""
+								},
+								{
+									"name": "4",
+									"from": [-3, -0.3, 0],
+									"to": [-3, -0.3, 0],
+									"rotationOrigin": [-3, -0.3, 0],
+									"rotationZ": -15,
+									"children": [
+										{
+											"name": "cube",
+											"from": [-4.25, -0.5, -1.25],
+											"to": [-0.25, 1.25, 1.25],
+											"rotationOrigin": [-0.25, 0, 0],
+											"uv": [0, 0],
+											"shade": true,
+											"faces": {
+												"north": {"texture": "#wolftail", "uv": [4, 0, 8, 2], "autoUv": false, "snapUv": false},
+												"east": {"texture": "#wolftail", "uv": [9, 6, 12, 8], "autoUv": false, "snapUv": false},
+												"south": {"texture": "#wolftail", "uv": [4, 2, 8, 4], "autoUv": false, "snapUv": false},
+												"west": {"texture": "#wolftail", "uv": [9, 8, 12, 10], "autoUv": false, "snapUv": false},
+												"up": {"texture": "#wolftail", "uv": [4, 3, 0, 0], "autoUv": false, "snapUv": false},
+												"down": {"texture": "#wolftail", "uv": [4, 3, 0, 6], "autoUv": false, "snapUv": false}
+											},
+											
+											"climateColorMap": "",
+											"gradientShade": false,
+											"renderPass": 0,
+											"seasonColorMap": ""
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
