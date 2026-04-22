@@ -31,6 +31,12 @@
     "itemdesc-badgevor": "<font color=\"#99c9f9\"><i>I don't know what's worse, the fact that you're a monster, or the fact that you're proud of it.</i></font><br>",
     "item-badgeseth": "Badge of the Sethramor Steward",
     "itemdesc-badgeseth": "<font color=\"#99c9f9\"><i>I know what you're doing. I just can't prove it yet.</i></font><br>",
+    "item-pauldron1": "Pauldron of The Hand",
+    "itemdesc-pauldron1": "<font color=\"#99c9f9\"><i>I hope you lot know what you're doing, But I'm rooting for you -The Wolf</i></font><br>",
+    "item-pauldron2": "Pauldron of The Knight",
+    "itemdesc-pauldron2": "<font color=\"#99c9f9\"><i>I hope you lot know what you're doing, But I'm rooting for you -The Wolf</i></font><br>",
+    "item-pauldron3": "Pauldron of The Grand Knight",
+    "itemdesc-pauldron3": "<font color=\"#99c9f9\"><i>I hope you lot know what you're doing, But I'm rooting for you -The Wolf</i></font><br>",
 
 
     "block-relic": "Reliquary of The Mad King",
@@ -57,6 +63,11 @@
     "blockdesc-cipher-east": "<font color=\"#99c9f9\"><i>A sophisticated telegraph cipher machine, built by the National Informatics Laboratory for diplomatic uses.</i></font><br>",
     "block-cipher-north": "MK 1 Europa Cipher Machine",
     "blockdesc-cipher-north": "<font color=\"#99c9f9\"><i>A sophisticated telegraph cipher machine, built by the National Informatics Laboratory for diplomatic uses.</i></font><br>",
+    "block-lupinchair-east": "Experiment Chair",
+    "blockdesc-lupinchair-east": "<font color=\"#99c9f9\"><i>Please, take a seat, and we'll begin. I'm looking forward to meeting you.</i></font><br>",
+    "block-lupinchair-north": "Experiment Chair",
+    "blockdesc-lupinchair-north": "<font color=\"#99c9f9\"><i>Please, take a seat, and we'll begin. I'm looking forward to meeting you.</i></font><br>",
+
 
      "game:tabname-vsccosmetics": "VSC Cosmetics"
 }
