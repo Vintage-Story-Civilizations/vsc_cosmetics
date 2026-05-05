@@ -1,0 +1,91 @@
+{
+	"code": "vscgun",
+	"tags": ["weapon", "weapon-ranged"],
+	"variantgroups": [
+		{ "code": "type", "states": ["gun" ] }
+	],
+	"class": "ItemBow",
+	"maxstacksize": 1,
+	"durabilityByType": {
+		"*": 600
+	},
+	"shape": {
+		"base": "item/vscgun"
+	},
+	"tool": "bow",
+	"creativeinventory": { "general": ["*"], "items": ["*"], "tools": ["*"], "vsccosmetics": ["*"] },
+	"attributes": {
+		"heldItemPitchFollow": 1,
+		"aimAnimationByType": {
+			"*": "bowaim"
+		},
+		"damageByType": {
+			"*": 20
+		},
+		"damageTierByType": {
+			"*": 6
+		},
+		"statModifierByType": {
+			"*": { "rangedWeaponsAcc": 2 }
+		},
+		"toolrackTransformByType": {
+			"*": {
+				"translation": { "x": 0.14, "y": 0.93 },
+				"rotation": { "x": 2, "y": 5, "z": 0 },
+				"scale": 1.76
+			}
+		},
+		"groundStorageTransformByType": {
+			"*":{
+				"translation": { "x": -0.4, "y": 0.1, "z": 0.28 },
+				"rotation": { "x": 20, "y": -180, "z": -90 },
+				"scale": 0.83
+			}
+		}
+	},
+	"behaviors": [{ 
+		"name": "GroundStorable",
+		"properties": {
+			"layout": "WallHalves",
+			"wallOffYByType": {
+				"bow-crude": 1,
+				"bow-simple": 1,
+				"*": 2
+			},
+			"ctrlKey": true,
+			"selectionBox": { "x1": 0, "y1": 0, "z1": 0, "x2": 1, "y2": 0.1, "z2": 1 },
+			"collisionBox": { "x1": 0, "y1": 0, "z1": 0, "x2": 0, "y2": 0, "z2": 0 }
+		}
+	}
+],
+	"fpHandTransformByType": {
+		"*": {
+			"translation": { "x": -0.8, "y": 0.05, "z": -0.95 },
+			"rotation": { "x": 101, "y": 11, "z": -2 },
+			"origin": { "x": 0.5, "y": 0, "z": 0.5 },
+			"scale": 0.64
+		}
+	},
+	"guiTransformByType": {
+		"*": {
+			"translation": { "x": 12, "y": 21, "z": 0 },
+			"rotation": { "x": -147, "y": 42, "z": 41 },
+			"origin": { "x": 0.47, "y": 0, "z": 0.55 },
+			"scale": 2.24
+		}
+	},
+	"groundTransform": {
+		"translation": { "x": 0, "y": 0, "z": 0 },
+		"rotation": { "x": 0, "y": 0, "z": 0 },
+		"origin": { "x": 0.5, "y": 0, "z": 0.5 },
+		"scale": 4.8
+	},
+	"tpHandTransformByType": {
+		"*": {
+			"translation": { "x": -0.8, "y": 0.05, "z": -0.95 },
+			"rotation": { "x": 101, "y": 11, "z": -2 },
+			"origin": { "x": 0.5, "y": 0, "z": 0.5 },
+			"scale": 0.64
+		}
+	}
+}
