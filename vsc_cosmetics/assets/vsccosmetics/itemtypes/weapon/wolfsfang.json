@@ -12,7 +12,7 @@
         "*": 2.5
     },
     "tooltierbytype": {
-        "*": 5
+        "*": 10
     },
     "attackpowerbytype": {
         "*": 10
